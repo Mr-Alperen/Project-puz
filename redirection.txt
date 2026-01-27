@@ -33999,7 +33999,7 @@
 [signal lost]: NULL
 [signal lost]: NULL
 [signal lost]: NULL
-Thread 0::  Dispatch queue: com.apple.main-thread
+Thread 0::  Dispatch queue: com.szar.main-thread
 0   libsystem_kernel.dylib        	    0x7ff81b0c693a mach_msg_trap + 10
 1   libsystem_kernel.dylib        	    0x7ff81b0c6ca8 mach_msg + 56
 2   CoreFoundation                	    0x7ff81b1ca29d __CFRunLoopServiceMachPort + 319
