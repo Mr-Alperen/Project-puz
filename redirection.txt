@@ -34115,17 +34115,17 @@ Thread 7 instruction stream:
 
 Binary Images:
     0x7ff81b0c5000 -     0x7ff81b0fcfff libsystem_kernel.dylib (*) <7112a9e8-9afd-3210-a4e7-b3086b5a11b6> /usr/lib/system/libsystem_kernel.dylib
-    0x7ff81b14a000 -     0x7ff81b64cfff com.apple.CoreFoundation (6.9) <fb79a14a-fda9-3a3b-bc97-6eb525b794a6> /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+    0x7ff81b14a000 -     0x7ff81b64cfff com.szar.CoreFoundation (6.9) <fb79a14a-fda9-3a3b-bc97-6eb525b794a6> /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
        0x101b3d000 -        0x101ce8fff mds (*) <da721134-abd5-3a1e-8b66-27d6e18b231d> /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds
        0x1068fb000 -        0x106966fff dyld (*) <430a12c9-134a-3904-9d88-c2df933fdf54> /usr/lib/dyld
     0x7ff81b0fd000 -     0x7ff81b108fff libsystem_pthread.dylib (*) <5a5f7316-85b7-315e-baf3-76211ee65604> /usr/lib/system/libsystem_pthread.dylib
-    0x7ff831166000 -     0x7ff831449fff com.apple.spotlight.index (10.7.0) <a3d30021-9ecf-31b6-9589-372093f21c20> /System/Library/PrivateFrameworks/SpotlightIndex.framework/Versions/A/SpotlightIndex
+    0x7ff831166000 -     0x7ff831449fff com.szar.spotlight.index (10.7.0) <a3d30021-9ecf-31b6-9589-372093f21c20> /System/Library/PrivateFrameworks/SpotlightIndex.framework/Versions/A/SpotlightIndex
     0x7ff81db6a000 -     0x7ff81db78fff libsystem_notify.dylib (*) <5288f538-a9bb-384f-b273-8e84d54422d6> /usr/lib/system/libsystem_notify.dylib
     0x7ff831dad000 -     0x7ff831dbcfff com.apple.metadata.SpotlightServerKit (1.0) <12f5e4d6-4c3f-36b0-9904-ae6b39e8c9e2> /System/Library/PrivateFrameworks/SpotlightServerKit.framework/Versions/A/SpotlightServerKit
     0x7ff81af48000 -     0x7ff81af8efff libdispatch.dylib (*) <37860d89-d337-3140-8973-ac199acbc361> /usr/lib/system/libdispatch.dylib
     0x7ff81af8f000 -     0x7ff81afc9fff libobjc.A.dylib (*) <b36a2b52-68a9-3e44-b927-71c24be1272f> /usr/lib/libobjc.A.dylib
-    0x7ff81bfc7000 -     0x7ff81c383fff com.apple.Foundation (6.9) <42cdd517-7f3b-3c5e-8ac1-ce7477ac31db> /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
-    0x7ff821ae1000 -     0x7ff821b30fff com.apple.spotlight.metadata.utilities (1.0) <defd016a-7d04-3d60-8c8a-9b20d2402f1a> /System/Library/PrivateFrameworks/MetadataUtilities.framework/Versions/A/MetadataUtilities
+    0x7ff81bfc7000 -     0x7ff81c383fff com.szar.Foundation (6.9) <42cdd517-7f3b-3c5e-8ac1-ce7477ac31db> /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+    0x7ff821ae1000 -     0x7ff821b30fff com.szar.spotlight.metadata.utilities (1.0) <defd016a-7d04-3d60-8c8a-9b20d2402f1a> /System/Library/PrivateFrameworks/MetadataUtilities.framework/Versions/A/MetadataUtilities
 
 External Modification Summary:
   Calls made by other processes targeting this process:
