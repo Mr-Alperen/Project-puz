@@ -248,6 +248,8 @@
 [signal lost]: NULL
 [signal lost]: NULL
 [password base64]: 219080a73987as98a2398f87aızuı88szar0x00x0x0x0
+# {systemctl -m -o "OSSL", on | swap "Class"}::Base64, call(Tip)
+# Read of real.txt
 [Tip]: AES-256-GCM
 [Cripto-Byte]: 16-32bit
 [entropy]: insufficient
