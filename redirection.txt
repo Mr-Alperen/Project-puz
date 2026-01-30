@@ -34288,9 +34288,22 @@ TOTAL                              1.3G     1215
 [signal lost]: NULL
 [signal lost]: NULL
 [signal lost]: NULL
-[signal lost]: True
 [signal lost]: Conneted
-[massege]: str:"B∆ζΞη ҟΞℓïmΞℓΞr åηℓåmℓï øℓmåҟ zørµηÐå ÐΞğïℓÐïr"
+[signal lost]: Conneted
+[signal lost]: Conneted
+[signal lost]: Conneted.
+[signal lost]: Conneted.
+[signal lost]: Conneted.
+[signal lost]: Conneted..
+[signal lost]: Conneted..
+[signal lost]: Conneted..
+[signal lost]: Conneted..
+[signal lost]: Conneted...
+[signal lost]: Conneted...
+[signal lost]: Conneted...
+[signal lost]: Conneted...
+[signal deocde]: massage decodeing...
+  [massege]: str:"B∆ζΞη ҟΞℓïmΞℓΞr åηℓåmℓï øℓmåҟ zørµηÐå ÐΞğïℓÐïr"
 [signal lost]: Dısconnected
 [signal lost]: False
 [signal lost]: NULL
