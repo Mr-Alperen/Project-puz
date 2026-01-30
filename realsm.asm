@@ -12,7 +12,7 @@ global _start
 _start:
     call speaker_on
 
-    ; H (....)
+   
     call dot
     call gap
     call dot
