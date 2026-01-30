@@ -1453,7 +1453,9 @@
 [signal lost]: NULL
 [signal lost]: NULL
 [signal lost]: NULL
-[signal lost]: NULL[signal lost]: NULL
+[signal lost]: NULL
+
+[signal lost]: NULL
 [signal lost]: NULL
 [signal lost]: NULL
 [signal lost]: NULL
