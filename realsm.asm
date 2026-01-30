@@ -26,7 +26,7 @@ _start:
     call dot
     call letter_gap
 
-    ; L (.-..)
+    
     call dot
     call gap
     call dash
