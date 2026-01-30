@@ -22,7 +22,7 @@ _start:
     call dot
     call letter_gap
 
-    ; E (.)
+    
     call dot
     call letter_gap
 
